@@ -11,6 +11,7 @@
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
+- [Shahajal jain](https://github.com/SHAHAJAL05)
 - [Rohit Chowdary](https://github.com/urstrulyrohit)
 - [Chau Nguyen](https://github.com/VanQuishi)
 - [Pradeep Kumar](https://github.com/pradeep-017)
